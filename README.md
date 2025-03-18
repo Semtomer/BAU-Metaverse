@@ -1,6 +1,6 @@
 # BAU-Metaverse
 
-Welcome to the **BAU Metaverse** repository! This project is a collaborative effort developed by the Bahçeşehir University Metaverse Club, led by myself and **Berkay Kılıç (https://github.com/kberkaykilic)** during our time at Bahçeşehir University. The project represents an immersive digital transformation of Bahçeşehir University’s Beşiktaş South Campus (Block D) into an interactive Metaverse environment. Built using **Unity Engine**, **C#**, and **Photon Pun**, this project brings the university campus to life in a virtual space.
+Welcome to the **BAU Metaverse** repository! This project is a collaborative effort developed by the Bahçeşehir University Metaverse Club, led by myself and **Berkay Kılıç (https://github.com/kberkaykilic)** and the contributions of **Yiğit Dağıdır (https://github.com/yigitdagidir)** during our time at Bahçeşehir University. The project represents an immersive digital transformation of Bahçeşehir University’s Beşiktaş South Campus (Block D) into an interactive Metaverse environment. Built using **Unity Engine**, **C#**, and **Photon Pun**, this project brings the university campus to life in a virtual space.
 
 ---
 
